@@ -39,7 +39,7 @@ author:         'Bruno Corrêa Quint'
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "My awesome biography constrained to a sentence or two goes here."
   url:              'https://b1quint.github.io/'
-  
+
   #Social Media links (Use complete URL except for email)
   dribbble:
   email:
@@ -100,3 +100,6 @@ defaults:
       type: posts
     values:
       comments: false
+
+# Including new folders with pages
+include: ["_pages"]
