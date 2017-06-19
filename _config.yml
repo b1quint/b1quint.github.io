@@ -10,7 +10,7 @@ gems: [jekyll-paginate]
 permalink:        /blog/:year/:month/:day/:title
 
 # Setup
-title:            'Bruno C. Quint'
+title:            'B. Quint'
 tagline:          'A sample page for my home page. :p'
 description:      'Just a dummy page'
 url:              'https://b1quint.github.io/'
@@ -35,19 +35,24 @@ navigation:
 # Author Details
 author:         'Bruno Corrêa Quint'
 
-#Social Media links (Use complete URL except for email)
-dribbble:
-email:
-facebook:       ''
-flickr:
-github:         ''
-gplus:          ''
-instagram:
-pinterest:
-linkedin:       ''
-rss:
-stackoverflow:  ''
-twitter:        ''
+  name   : "Your Name"
+  avatar : "/assets/images/bio-photo.jpg"
+  bio    : "My awesome biography constrained to a sentence or two goes here."
+  url:              'https://b1quint.github.io/'
+  
+  #Social Media links (Use complete URL except for email)
+  dribbble:
+  email:
+  facebook:       ''
+  flickr:
+  github:         ''
+  gplus:          ''
+  instagram:
+  pinterest:
+  linkedin:       ''
+  rss:
+  stackoverflow:  ''
+  twitter:        ''
 
 # Google Analytics
 gahandler: 'UA-52149651-1'
@@ -68,3 +73,30 @@ destination: ./_site
 
 # Custom vars
 version:          0.9x beta 2
+
+# Adding the repository name
+repository: "b1quint/b1quint.github.io"
+
+# Setting the teaser image
+teaser: /assets/images/500x300.png
+
+# Enable breadcrumb links
+breadcrumbs: true  # disabled by default
+
+# Enable readtime
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      read_time: true
+
+# Disable comments
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      comments: false
