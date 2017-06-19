@@ -1,6 +1,4 @@
-#source "https://rubygems.org"
-#gemspec
-
+# Gemfile to be compatible with GitHub
 source "https://rubygems.org"
 
 gem "github-pages", group: :jekyll_plugins
