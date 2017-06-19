@@ -80,35 +80,75 @@ repository: "b1quint/b1quint.github.io"
 # Setting the teaser image
 teaser: /assets/images/500x300.png
 
-# Enable breadcrumb links
-breadcrumbs: true  # disabled by default
-
-# Enable readtime
-defaults:
-  # _posts
-  - scope:
-      path: ""
-      type: posts
-    values:
-      read_time: true
-
-# Disable comments
-defaults:
-  # _posts
-  - scope:
-      path: ""
-      type: posts
-    values:
-      comments: false
-
 # Including new folders with pages
 include: ["_pages"]
 
+# Front matter defaults
 defaults:
-  # _pages
+  # _posts
   - scope:
       path: ""
+      type: posts
+    values:
+      layout: single
+      read_time: false
+      comments: false
+      share: false
+      related: false
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
+  # _pages
+  - scope:
+      path: "_pages"
       type: pages
     values:
       layout: single
       author_profile: true
+  # _docs
+  # - scope:
+  #     path: ""
+  #     type: docs
+  #   values:
+  #     layout: single
+  #     read_time: false
+  #     author_profile: false
+  #     share: false
+  #     comments: false
+  #     sidebar:
+  #       nav: "docs"
+  # # _recipes
+  # - scope:
+  #     path: ""
+  #     type: recipes
+  #   values:
+  #     layout: single
+  #     author_profile: true
+  #     share: true
+  #     comments: true
+  # # _pets
+  # - scope:
+  #     path: ""
+  #     type: pets
+  #   values:
+  #     layout: single
+  #     author_profile: true
+  #     share: true
+  #     comment: true
+  # # _portfolio
+  # - scope:
+  #     path: ""
+  #     type: portfolio
+  #   values:
+  #     layout: single
+  #     author_profile: false
+  #     share: true
