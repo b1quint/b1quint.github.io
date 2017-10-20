@@ -9,9 +9,7 @@ header:
   caption:
 excerpt: "Astronomy, martial arts, photography, origami and AI."
 intro:
-  - excerpt: 'Follow me! &nbsp;
-  [<i class="fa fa-twitter"></i> @b1quint](https://twitter.com/b1quint){: .btn .btn--twitter}
-  [<i class="fa fa-twitter"></i> @b1quint](https://twitter.com/b1quint){: .btn .btn--linkedin} '
+  - excerpt: 'Follow me! &nbsp; [<i class="fa fa-twitter"></i> @b1quint](https://twitter.com/b1quint){: .btn .btn--twitter} [<i class="fa fa-github"></i> @b1quint](https://github.com/b1quint){: .btn}'
 ---
 
 {% include feature_row id="intro" type="center" %}
