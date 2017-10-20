@@ -28,7 +28,11 @@ feature_row:
     url: "/docs/Photography/"
     btn_label: "Learn More"
 intro:
-  - excerpt: 'Follow me! &nbsp; [<i class="fa fa-twitter"></i> @b1quint](https://twitter.com/b1quint){: .btn .btn--twitter} [<i class="fa fa-github"></i> @b1quint](https://github.com/b1quint){: .btn}'
+  - excerpt: 'Follow me! &nbsp;
+  [<i class="fa fa-twitter"></i> @b1quint](https://twitter.com/b1quint){: .btn .btn--twitter}
+  [<i class="fa fa-github"></i> @b1quint](https://github.com/b1quint){: .btn}
+  [<i class="fa fa-linkedin"></i> @b1quint](https://www.linkedin.com/in/bruno-quint-94999396/){: .btn .btn--linkedin}
+  '
 ---
 
 {% include feature_row id="intro" type="center" %}
