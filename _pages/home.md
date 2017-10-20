@@ -7,7 +7,7 @@ header:
   cta_label: ""
   cta_url: ""
   caption:
-excerpt: "Astronomy, martial arts, photography, origami and AI."
+excerpt: "Astronomy, martial arts, photography and origami."
 feature_row:
   - image_path: /assets/images/mm-customizable-feature.png
     alt: "customizable"
