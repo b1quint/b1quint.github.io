@@ -11,7 +11,7 @@ excerpt: "Astronomy, martial arts, photography, origami and AI."
 intro:
   - excerpt: 'Follow me! &nbsp;
   [<i class="fa fa-twitter"></i> @b1quint](https://twitter.com/b1quint){: .btn .btn--twitter}
-  [<i class="fa fa-twitter"></i> @b1quint](https://twitter.com/b1quint){: .btn .btn--twitter} '
+  [<i class="fa fa-twitter"></i> @b1quint](https://twitter.com/b1quint){: .btn .btn--linkedin} '
 ---
 
 {% include feature_row id="intro" type="center" %}
