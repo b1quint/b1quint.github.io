@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en"
-title                    : "BQuint Home"
+title                    : "Bruno Quint"
 title_separator          : "-"
-name                     : "Bruno Quint"
-description              : "Dummy page"
+name                     : "Bruno Quint's Homepage"
+description              : "Astronomy, martial arts, photography, origami and AI."
 url                      : "https://b1quint.github.io/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "b1quint/b1quint.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -78,8 +78,8 @@ analytics:
 # Site Author
 author:
   name             : "Bruno Quint"
-  avatar           : "assets/images/bio-quint.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Resident Astronomer at SOAR Telescope"
+  avatar           : "assets/images/profile_bruno-quint.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "Resident Astronomer at SOAR Telescope."
   location         : "La Serena, Chile"
   email            :
   uri              :
