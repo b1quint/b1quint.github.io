@@ -33,7 +33,7 @@ feature_row:
     alt: "SAM-FP GUI"
     title: "SAM-FP: Graphical User Interface"
     excerpt: "An user interface to control SAM-FP from any computer within SOAR's Network."
-    url: "https://github.com/b1quint/samfp_gui"
+    url: "https://b1quint.github.io/samfp_gui/"
     btn_label: "Learn More"
 
 intro:
