@@ -4,35 +4,36 @@ permalink: /
 header:
   overlay_color: "#5e616c"
   overlay_image: "/assets/images/banner_drop-desert.jpg"
-  cta_label: ""
-  cta_url: ""
-  caption:
-excerpt: "Astronomy, martial arts, photography and origami."
+  caption: "aaaaaaa"
+excerpt: "Astronomy, optics, martial arts, photography and origami."
+
 feature_row:
+
   - image_path: /assets/images/mm-customizable-feature.png
-    alt: "customizable"
-    title: "Astronomical Instrumentation"
-    excerpt: "Explore my new and old projects in instruments for telescopes."
-    url: "/docs/astroinstro/"
+    alt: ""
+    title: "SAM-FP Tools"
+    excerpt: "A set of scripts, methods and functions to deal with Fabry-Perot data at SOAR Telescope."#
+    url: "https://b1quint.github.io/samfp-tools"#
     btn_label: "Learn More"
-  - image_path: /assets/images/mm-responsive-feature.png
-    alt: "fully responsive"
-    title: "Bujinkan Budo Taijutsu"
-    excerpt: "Let me describe to you a little bit of this martial arts that I love so much!"
-    url: "/docs/bujinkan/"
+
+  - image_path: /assets/images/mm-customizable-feature.png
+    alt: ""
+    title: "Goodman Pipeline"
+    excerpt: "A pipeline developed to easily reduce data obtained with the Goodman High Throughput Spectrograph ."
+    url: "https://b1quint.github.io/illusion"
     btn_label: "Learn More"
-  - image_path: /assets/images/mm-free-feature.png
-    alt: "100% free"
-    title: "Photography"
-    excerpt: "Let me share with you links to my favorite photos."
-    url: "/docs/Photography/"
+
+  - image_path: /assets/images/mm-customizable-feature.png
+    alt: ""
+    title: "Illusion"
+    excerpt: "Illusion is a Fabry-Perot data-cube simulator used to test SAM-FP Tools."
+    url: "https://b1quint.github.io/illusion"
     btn_label: "Learn More"
+
 intro:
-  - excerpt: 'Follow me! &nbsp;
-  [<i class="fa fa-twitter"></i> @b1quint](https://twitter.com/b1quint){: .btn .btn--twitter}
-  [<i class="fa fa-github"></i> @b1quint](https://github.com/b1quint){: .btn}
-  [<i class="fa fa-linkedin"></i> @b1quint](https://www.linkedin.com/in/bruno-quint-94999396/){: .btn .btn--linkedin}
-  '
+  - excerpt: 'Follow me!! &nbsp; [<i class="fa fa-github"></i> @b1quint](https://github.com/b1quint){: .btn}'
 ---
 
 {% include feature_row id="intro" type="center" %}
+
+{% include feature_row type="center" %}
