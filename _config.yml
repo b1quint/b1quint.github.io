@@ -81,26 +81,26 @@ author:
   avatar           : "assets/images/profile_bruno-quint.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Resident Astronomer at SOAR Telescope."
   location         : "La Serena, Chile"
-  email            :
+  email            : "bquint at ctio dot noao dot edu"
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : "https://www.facebook.com/b1quint"
   foursquare       :
-  github           :
+  github           : "https://github.com/b1quint"
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : "https://www.instagram.com/b1quint/"
   lastfm           :
   linkedin         :
   pinterest        :
   soundcloud       :
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
-  steam            :
+  steam            : "b1quint"
   tumblr           :
-  twitter          :
+  twitter          : 
   vine             :
   weibo            :
   xing             :
