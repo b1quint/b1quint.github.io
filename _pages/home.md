@@ -15,7 +15,7 @@ feature_row:
     url: "https://b1quint.github.io/samfp-tools"
     btn_label: "Learn More"
 
-  - image_path: /assets/images/illusion_icon.png
+  - image_path: /assets/images/goodman_icon.svg
     alt: "Goodman Pipeline"
     title: "Goodman Pipeline"
     excerpt: "A pipeline developed to easily reduce data obtained with the Goodman High Throughput Spectrograph ."
@@ -29,7 +29,7 @@ feature_row:
     url: "https://b1quint.github.io/illusion"
     btn_label: "Learn More"
 
-  - image_path: /assets/images/noun_943295_cc.svg
+  - image_path: /assets/images/noun_116281_cc.svg
     alt: "SAM-FP GUI"
     title: "SAM-FP: Graphical User Interface"
     excerpt: "An user interface to control SAM-FP from any computer within SOAR's Network."
