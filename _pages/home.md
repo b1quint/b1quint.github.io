@@ -43,3 +43,5 @@ intro:
 {% include feature_row id="intro" type="center" %}
 
 {% include feature_row %}
+
+<meta name="google-site-verification" content="9TyxI0xrnTKM9dnhCyn2O9qQG2BsTvKHHlW9Kix_p3w" />
