@@ -19,7 +19,7 @@ feature_row:
     alt: "Goodman Pipeline"
     title: "Goodman Pipeline"
     excerpt: "A pipeline developed to easily reduce data obtained with the Goodman High Throughput Spectrograph ."
-    url: "https://github.com/soar-telescope/goodman"
+    url: "https://soar-telescope.github.io/goodman/"
     btn_label: "Learn More"
 
   - image_path: /assets/images/illusion_icon.svg
@@ -42,4 +42,4 @@ intro:
 
 {% include feature_row id="intro" type="center" %}
 
-{% include feature_row type="center" %}
+{% include feature_row %}
