@@ -86,7 +86,7 @@ author:
   bitbucket        :
   codepen          :
   dribbble         :
-  flickr           :
+  flickr           : "https://www.flickr.com/people/bruno_quint/"
   facebook         : "https://www.facebook.com/b1quint"
   foursquare       :
   github           : "https://github.com/b1quint"
@@ -94,10 +94,10 @@ author:
   keybase          :
   instagram        : "https://www.instagram.com/b1quint/"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/bruno-quint-94999396/"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
+  stackoverflow    : "2333908/bruno-quint" # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
   steam            : "b1quint"
   tumblr           :
   twitter          :
