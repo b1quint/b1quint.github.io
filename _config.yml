@@ -72,10 +72,10 @@ social:
 analytics:
   provider               : false # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          :
+    tracking_id          : "UA-108359445-1"
 
 
-# Site Author
+# Site Author ------------------------------------------------------------------
 author:
   name             : "Bruno Quint"
   avatar           : "assets/images/profile_bruno-quint.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
@@ -105,7 +105,7 @@ author:
   weibo            :
   xing             :
   youtube          : # "https://youtube.com/c/MichaelRoseDesign"
-
+#-------------------------------------------------------------------------------
 
 # Reading Files
 include:
